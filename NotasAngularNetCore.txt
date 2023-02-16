@@ -1,0 +1,8 @@
+--- Requerimientos
+1) Instalar NodeJs (Desde la Pagina)
+2) Instalar Angular 
+    npm install -g @angular/cli
+3) Instalar VSCode
+
+----crear app angular---
+ ng new AngularNetCore --routing --style=css
