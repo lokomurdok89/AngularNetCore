@@ -6,3 +6,6 @@
 
 ----crear app angular---
  ng new AngularNetCore --routing --style=css
+
+---- levantar app
+ng serve --port=xxxx --host=0.0.0.0 //para que se pueda acceder
